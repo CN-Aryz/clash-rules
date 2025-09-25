@@ -30,3 +30,4 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai.com
   - DOMAIN-SUFFIX,integrate.api.nvidia.com
+  - DOMAIN-SUFFIX,jetbrains.ai
